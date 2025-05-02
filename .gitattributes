@@ -1,0 +1,5 @@
+*.java text eol=lf encoding=utf-8
+*.kt text eol=lf encoding=utf-8
+*.kts text eol=lf encoding=utf-8
+*.md text eol=lf encoding=utf-8
+*.properties text eol=lf encoding=utf-8 
